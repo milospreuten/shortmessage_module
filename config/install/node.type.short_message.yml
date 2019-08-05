@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - short_message
+name: 'Short Message'
+type: short_message
+description: 'Content type that can be used to provide additional information on the front page'
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: true
